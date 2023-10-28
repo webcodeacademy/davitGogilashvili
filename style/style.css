@@ -1,0 +1,270 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    list-style-type: none;
+    text-decoration: none;
+    box-sizing: border-box;
+    font-family: 'Quicksand', sans-serif;
+}
+
+body {
+    overflow-x: hidden;
+  }
+
+.flex{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+header{
+    width: 1300px;
+    height: 100px;
+    background-color: rgb(32, 83, 0);
+}
+
+li a{
+    color: #c6ffad;
+}
+
+.home{
+    position: absolute;
+    right: 500px;
+    top: 40px;
+}
+
+.about{
+    position: absolute;
+    right: 370px;
+    top: 40px;
+}
+
+.contact{
+    position: absolute;
+    right: 20px;
+    top: 40px;
+}
+.photos{
+    position: absolute;
+    right: 130px;
+    top: 40px;
+}
+
+.caroptions{
+    position: absolute;
+    right: 220px;
+    top: 40px;
+}
+
+header a i{
+    font-size: 80px;
+    color: #c6ffad;
+    position: absolute;
+    left: 10px;
+    top: 10px;
+}
+.touropa{
+    position: absolute;
+    left: 100px;
+    top: 30px;
+    color: #c6ffad;
+}
+
+
+.home:hover{
+
+    font-size: 20px;
+    transition: 0.1s;
+    
+}
+
+.caroptions:hover{
+
+    font-size: 20px;
+    transition: 0.1s;
+    
+}
+
+.about:hover{
+
+    font-size: 20px;
+    transition: 0.1s;
+    
+}
+.photos:hover{
+
+    font-size: 20px;
+    transition: 0.1s;
+    
+}
+
+.contact:hover{
+
+    font-size: 20px;
+    transition: 0.1s;
+    
+}
+
+
+
+.ragactext{
+    color: rgb(0, 0, 0);
+    position: absolute;
+    left: 50px;
+    top: 100px;
+    font-size: 48px;
+    padding: 10px 6px;
+    margin-left: 16px;
+}
+
+
+.kideragac{
+    color: rgb(0, 0, 0);
+    position: absolute;
+    left: 535px;
+    top: 200px;
+    font-size: 24px;
+    padding: 10px 6px;
+    margin-left: 16px;
+}
+
+
+
+.shesaxeb{
+    padding: 15px 20px;
+}
+
+
+
+
+
+
+li a{
+    padding: 5px 10px;
+}
+
+
+.toyota img{
+    width: 300px;
+    height: 250px;
+    margin-left: 10px;
+    margin-top: 40px;
+}
+
+.option{
+    position: absolute;
+    left: 10px;
+    top: 115px;
+    font-size: larger;
+}
+
+.spex{
+    width: 300px;
+    height: 25px;
+    margin-left: 10px;
+}
+
+
+.mitsubishi img{
+   position: absolute;
+   left: 500px;
+   top: 140px;
+   width: 300px;
+   height: 250px;
+}
+.optiontwo{
+    position: absolute;
+    left: 500px;
+    top: 115px;
+    font-size: larger;
+}
+
+.speqs{
+    width: 300px;
+    height: 25px;
+    position: absolute;
+    left: 500px;
+    top: 396px;
+}
+
+
+.honda img{
+    position: absolute;
+    left: 950px;
+    top: 140px;
+    width: 300px;
+    height: 250px;
+ }
+ .optionthree{
+     position: absolute;
+     left: 950px;
+     top: 115px;
+     font-size: larger;
+ }
+ 
+ .intel{
+     width: 300px;
+     height: 25px;
+     position: absolute;
+     left: 950px;
+     top: 396px;
+ }
+
+.contacti{
+    font-size: 36px;
+    position: absolute;
+    top: 200px;
+    left: 330px;
+}
+
+
+
+
+
+
+
+
+.insta{
+    color: black;
+    font-size: 100px;
+    position: absolute;
+    left: 330px;
+}
+
+
+
+.facebook{
+    color: black;
+    font-size: 100px;
+    position: absolute;
+    left: 870px;
+    top: 230px;
+}
+
+.dedasamshoblo{
+width: 694px;
+height: 530px;
+margin: 5px;
+}
+
+
+
+.dzvelitbilisi{
+width: 700px;
+height: 500px;
+}
+
+
+.koshki{
+    position: absolute;
+    left: 720px;
+    top: 106px;
+}
+
+
+
+
+
+
+
+
